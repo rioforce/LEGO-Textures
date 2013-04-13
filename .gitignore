@@ -163,8 +163,10 @@ pip-log.txt
 .DS_Store
 
 # Image files
-.png
-.jpg
-.jpeg
-.bmp
-.gif
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.pdn
+*.psd
