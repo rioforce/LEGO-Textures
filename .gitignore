@@ -1,10 +1,11 @@
 # Image files
-*.png
-*.jpg
-*.jpeg
-*.bmp
-*.gif
 *.pdn
 *.psd
 *.dat
 *.db
+*.ini
+*.ptn
+*.ptn2
+*.ini2
+*.ffs_db
+*.tmp
