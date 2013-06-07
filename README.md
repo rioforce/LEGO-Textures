@@ -5,6 +5,11 @@ These LEGO textures are scanned from real LEGO bricks! You can use these texture
 free too! These textures are in an Inkscape .SVG format, so they are easily scalable to fit any texture UV map!
 Whether you want to use them in 3D art, photoshopping, or just plain anything, you can!
 
+Instructions
+============
+
+
+
 Lisense
 =======
 
