@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Classic Bob Face.svg"
+   inkscape:export-filename="G:\LEGO Textures Scans\Complete\Classics\Classic Bob Face.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.44601529"
+     inkscape:cx="398.50132"
+     inkscape:cy="599.96412"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362183)">
+    <g
+       id="g3052"
+       transform="matrix(1.9860721,0,0,1.9860721,-228.80198,-415.36742)">
+      <g
+         style="fill:#000000;stroke:#000000"
+         id="g3045">
+        <g
+           style="fill:#000000;stroke:#000000"
+           id="g3007"
+           transform="translate(-2.8571453,-77.142858)">
+          <path
+             style="fill:#000000;stroke:#000000"
+             d="m 309.40692,796.62557 c -38.62624,-6.06643 -82.26434,-23.48715 -100.54467,-39.58416 -10.85687,-9.56017 -9.51789,-25.82437 2.57984,-31.33647 8.08207,-3.68243 13.68468,-2.71914 28.68072,4.93127 33.50389,17.09241 72.15524,26.00073 123.35679,28.43114 58.1435,2.75993 101.75521,-4.69231 145.52423,-24.86675 30.29352,-13.96321 44.00004,-13.79782 48.56533,0.58602 4.57778,14.4233 -5.86795,25.02634 -41.71935,42.34766 -53.66711,25.92883 -148.99955,28.51304 -206.44289,19.49129 z"
+             id="path3009"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="sssssssss" />
+        </g>
+        <g
+           id="g3041"
+           style="fill:#000000;stroke:#000000"
+           transform="translate(-2.8922166e-4,0)">
+          <path
+             transform="translate(0.50507627,5.0507627)"
+             d="m 264.65997,437.68436 c 0,37.93664 -30.75373,68.69037 -68.69038,68.69037 -37.93665,0 -68.69038,-30.75373 -68.69038,-68.69037 0,-37.93665 30.75373,-68.69038 68.69038,-68.69038 37.93665,0 68.69038,30.75373 68.69038,68.69038 z"
+             sodipodi:ry="68.690376"
+             sodipodi:rx="68.690376"
+             sodipodi:cy="437.68436"
+             sodipodi:cx="195.96959"
+             id="path3021"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+             sodipodi:type="arc" />
+          <path
+             transform="translate(353.5534,4.5456878)"
+             d="m 264.65997,437.68436 c 0,37.93664 -30.75373,68.69037 -68.69038,68.69037 -37.93665,0 -68.69038,-30.75373 -68.69038,-68.69037 0,-37.93665 30.75373,-68.69038 68.69038,-68.69038 37.93665,0 68.69038,30.75373 68.69038,68.69038 z"
+             sodipodi:ry="68.690376"
+             sodipodi:rx="68.690376"
+             sodipodi:cy="437.68436"
+             sodipodi:cx="195.96959"
+             id="path3021-1"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
