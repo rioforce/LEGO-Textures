@@ -9,5 +9,6 @@
 *.ini2
 *.ffs_db
 *.tmp
-\Complete\LEGO Minifigures
-\Scans\
+#Folders
+LEGO Minifigures Collection (Ripped from iPhone App)/
+Scans/
