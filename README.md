@@ -8,24 +8,31 @@ Whether you want to use them in 3D art, photoshopping, or just plain anything, y
 Instructions
 ============
 
-The textures are in the "Completed" folder as SVG files. 
-* Download a file
-* Open them in Inkscape (or if you know how to use another SVG program you can).
+The textures are in the "Complete" folder as SVG files. They are sorted by category. 
+* Select a category folder.
+* Textures are in .SVG format. Some files are .PNG files. Those are already converted. They are most likely in 1024x1024 resoloution. It is recomended that you doenload the original .SVG files instead.
+* Open s .SVG file in Inkscape (or if you know how to use another SVG program you can).
 * Go to File>Export Bitmap
 * Under "Export Area", select Page.
 * Set the demensions you want your PNG file to be.
 * Export and locate your file.
 * Now you can open the PNG file in any image editor to fit it to your UV Map (that is, if you plan to use these for 3D renders)
 
-The "PNGs" folder has all of my original scans in it that I have already cropped. Most (if not all) of them are already converted to SVG.
+Notes
+=====
+
+In the root of the repository, you will see a "PNGs" folder. This folder contains the orginal scans of the textures. They are NOT production quality. Please use the textures out of the "Complete" colder instead.
 
 Support
 =======
-If you need any help, want to request some refinement on a texture, or want a specific texture, just summit a "bug" here:
+
+If you need any help, want to request some refinement on a texture, or want to request a specific texture, just summit a "bug" here:
 
 https://github.com/rioforce/LEGO-Textures/issues/new
 
-NOTE: I cannot do all textures
+NOTE: I cannot do all textures requested, for various reasons such as:
+* I do not own the minifigure
+* I cannot find a good-quality photo online to use.
 
 Lisense
 =======
