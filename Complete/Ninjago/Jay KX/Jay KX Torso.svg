@@ -11,10 +11,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   width="263"
-   height="208"
-   sodipodi:docname="Jay KX Torso.svg">
+   inkscape:version="0.48.2 r9819"
+   width="1024"
+   height="1024"
+   sodipodi:docname="Jay KX Torso.svg"
+   inkscape:export-filename="G:\LEGO Textures Scans\Complete\Ninjago\Jay KX\Jay KX Torso.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata2991">
     <rdf:RDF>
@@ -38,19 +41,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1600"
+     inkscape:window-height="850"
      id="namedview2987"
      showgrid="false"
-     inkscape:zoom="3.2091769"
-     inkscape:cx="178.29661"
-     inkscape:cy="129.30897"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:zoom="0.40114711"
+     inkscape:cx="1103.6514"
+     inkscape:cy="-372.92153"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2985" />
   <g
-     id="g3366">
+     id="g3366"
+     transform="matrix(4.5274436,0,0,4.5274436,-64.954134,168.96423)">
     <path
        inkscape:connector-curvature="0"
        id="path3259"
@@ -258,7 +262,7 @@
        inkscape:connector-curvature="0"
        id="path3310"
        d="m 74.679538,11.824285 c -0.919063,1.10546 -1.888735,2.339633 -2.458157,3.65625 4.970561,8.960995 9.401528,18.346254 15.4857,26.667902 12.860659,17.730286 29.679659,32.48208 40.621529,51.590747 11.2656,19.899006 18.05677,42.012076 22.4796,64.364396 1.59372,8.14018 2.76681,16.37145 4.01275,24.55916 1.05038,0.62939 2.46466,-0.0351 3.63559,0.0551 1.2908,0.22397 0.50963,-1.199 0.49267,-1.87954 -2.45418,-12.85248 -4.40609,-25.81631 -7.73993,-38.48561 C 146.44583,123.80085 139.73946,105.4944 129.02869,89.507363 120.98728,78.033571 111.82154,67.398448 103.14044,56.406862 93.283334,44.160595 84.836681,30.79031 77.339007,16.992674 76.361428,15.335482 75.74974,13.45874 74.775936,11.824285 l -0.07574,-0.0069 -0.02066,0.0069 z"
-       style="fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.22033899000000001;stroke-opacity:1" />
+       style="fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.22033899;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path3314"

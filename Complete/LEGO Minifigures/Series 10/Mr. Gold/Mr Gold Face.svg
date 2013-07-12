@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Mr Gold Face.svg"
-   inkscape:export-filename="C:\Users\Benjamin\Documents\GitHub\LEGO-Textures\Complete\LEGO Minifigures\Series 10\Mr. Gold\Mr Gold Face.png"
+   inkscape:export-filename="LEGO-Textures\Complete\LEGO Minifigures\Series 10\Mr. Gold\Mr Gold Face.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0300893"
-     inkscape:cx="757.01018"
-     inkscape:cy="210.78212"
+     inkscape:zoom="0.72838313"
+     inkscape:cx="609.34905"
+     inkscape:cy="366.15848"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -232,13 +232,13 @@
                  style="fill:#000000;stroke:#000000"
                  id="g3292">
                 <path
-                   style="fill:#380d02;stroke:#000000;stroke-width:1.01949596000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+                   style="fill:#380d02;stroke:#380d02;stroke-width:1.01949596000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
                    d="m 161.79587,915.16938 c 0,0 4.56833,20.51943 16.16485,22.88381 11.59651,2.36438 65.74705,0.0769 79.6821,4.8132 9.68888,3.29311 11.92811,5.86739 21.34813,7.0087 10.45443,1.26663 84.95325,1.77328 84.95325,1.77328 l 0,-5.06653 c 0,0 -66.67995,0.0845 -83.10835,-2.6177 -16.55728,-2.72334 -17.92189,-7.34647 -31.97826,-8.35977 -14.05638,-1.01331 -66.06499,-0.67553 -74.85023,-7.76867 -2.18605,-1.53304 -12.70987,-24.82101 -12.21149,-12.66632 z"
                    id="path3272"
                    inkscape:connector-curvature="0"
                    sodipodi:nodetypes="csssccsscc" />
                 <path
-                   style="fill:#380d02;stroke:#000000;stroke-width:1.02535343000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+                   style="fill:#380d02;stroke:#380d02;stroke-width:1.02535343000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
                    d="m 569.03975,915.20268 c 0,0 -4.62165,20.51642 -16.35353,22.88046 -11.73186,2.36403 -66.51445,0.0769 -80.61214,4.81249 -9.80197,3.29259 -12.06733,5.86656 -21.59731,7.00764 -10.57646,1.26649 -85.94483,1.77307 -85.94483,1.77307 l 0,-5.06578 c 0,0 67.45824,0.0839 84.0784,-2.61734 16.75054,-2.72295 18.13107,-7.34539 32.35151,-8.35855 14.22044,-1.01316 66.8361,-0.67543 75.72388,-7.76753 2.21157,-1.53281 12.85822,-24.81737 12.35402,-12.66446 z"
                    id="path3272-8"
                    inkscape:connector-curvature="0"

@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   width="112"
-   height="112"
-   sodipodi:docname="King_Kahuka torso.png">
+   inkscape:version="0.48.2 r9819"
+   width="1024"
+   height="1024"
+   sodipodi:docname="King_Kahuka torso.svg">
   <metadata
      id="metadata2991">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,13 +38,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-width="1600"
+     inkscape:window-height="850"
      id="namedview2987"
      showgrid="false"
-     inkscape:zoom="2.97995"
-     inkscape:cx="82.476312"
-     inkscape:cy="32.580631"
+     inkscape:zoom="0.52678571"
+     inkscape:cx="221.86824"
+     inkscape:cy="40.42057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
      inkscape:connector-curvature="0" />
   <g
      id="g3066"
-     transform="matrix(1.0358271,0,0,1.0358271,116.17773,-1.9930378)">
+     transform="matrix(9.5076986,0,0,9.5077031,1064.475,42.228649)">
     <path
        inkscape:connector-curvature="0"
        id="path3037"
