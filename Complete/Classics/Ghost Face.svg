@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="LEGO Ghost Face.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="700.18351"
+     inkscape:cy="402.04272"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362183)">
+    <g
+       id="g3038"
+       transform="matrix(0.97527481,0,0,0.97527481,26.332392,27.277151)">
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3000-1"
+         d="m 225.71902,544.94601 c 34.2238,-22.07065 150.9205,-306.47551 150.9205,-367.81301 0,-55.3884 -36.9048,-96.238636 -86.9433,-96.238636 -46.6495,0 -286.5186936,245.596026 -303.575794,310.823336 -23.2695,88.98529 158.731394,205.3789 239.598594,153.22831 z"
+         style="fill:#000000" />
+      <path
+         sodipodi:nodetypes="ssssssssssss"
+         inkscape:connector-curvature="0"
+         id="path3000"
+         d="M 252.90766,992.07827 C 99.532489,928.13063 22.83513,850.24876 54.66536,790.7734 c 29.830092,-55.73757 78.01376,-51.1531 233.00359,22.16905 178.80104,84.58672 270.12424,82.401 448.82189,-10.74222 153.79445,-80.1631 210.10432,-79.6852 230.59519,1.95728 17.27059,68.81253 -10.82146,97.35291 -164.86222,167.49096 -185.54939,84.48523 -378.47316,91.66013 -549.31615,20.4298 z M 770.2416,544.18438 C 736.01775,522.11373 619.32107,237.70887 619.32107,176.37137 c 0,-55.38841 36.90482,-96.238652 86.94327,-96.238652 46.64951,0 286.51868,245.596042 303.57576,310.823352 23.2695,88.98529 -158.73131,205.3789 -239.5985,153.22831 z"
+         style="fill:#000000" />
+    </g>
+  </g>
+</svg>
