@@ -34,12 +34,6 @@ NOTE: I cannot do all textures requested, for various reasons such as:
 * I do not own the minifigure
 * I cannot find a good-quality photo online to use.
 
-Update Log
-==========
-
-* 7-12-13 Updated all LEGO Textures with PNG previews so you do not have to download the files to see what they are.
-* 7-6-13 Added Mr. Gold Textures!
-
 License
 =======
 
