@@ -10,18 +10,18 @@ Instructions
 
 The textures are in the "Complete" folder as SVG files. They are sorted by category. 
 * Select a category folder.
-* Textures are in .SVG format. Some files are .PNG files. Those are already converted. They are most likely in 1024x1024 resoloution. It is recomended that you doenload the original .SVG files instead.
+* Textures are in .SVG format. Some files are .PNG files. Those are already converted. They are most likely in 1024x1024 resolution. It is recommended that you download the original .SVG files instead.
 * Open s .SVG file in Inkscape (or if you know how to use another SVG program you can).
 * Go to File>Export Bitmap
 * Under "Export Area", select Page.
-* Set the demensions you want your PNG file to be.
+* Set the dimensions you want your PNG file to be.
 * Export and locate your file.
 * Now you can open the PNG file in any image editor to fit it to your UV Map (that is, if you plan to use these for 3D renders)
 
 Notes
 =====
 
-In the root of the repository, you will see a "PNGs" folder. This folder contains the orginal scans of the textures. They are NOT production quality. Please use the textures out of the "Complete" colder instead.
+In the root of the repository, you will see a "PNGs" folder. This folder contains the original scans of the textures. They are NOT production quality. Please use the textures out of the "Complete" colder instead.
 
 Support
 =======
