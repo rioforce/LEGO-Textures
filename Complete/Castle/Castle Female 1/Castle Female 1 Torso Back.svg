@@ -15,6 +15,9 @@
    width="1024"
    height="1024"
    sodipodi:docname="Princess Torso Back.svg"
+   inkscape:export-filename="Princess Torso Back.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata2991">
     <rdf:RDF>
@@ -42,16 +45,16 @@
      inkscape:window-height="705"
      id="namedview2987"
      showgrid="false"
-     inkscape:zoom="0.38296688"
-     inkscape:cx="281.23192"
-     inkscape:cy="261.93033"
+     inkscape:zoom="0.54159696"
+     inkscape:cx="468.66475"
+     inkscape:cy="457.58329"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2985" />
   <g
      id="g5095"
-     transform="matrix(9.5440295,0,0,9.5440295,777.72732,392.82703)">
+     transform="matrix(9.5253561,0,0,9.5263092,777.20731,393.1873)">
     <g
        id="g5049-7"
        transform="matrix(-1,0,0,1,-57.034888,3.88e-4)">
@@ -157,7 +160,7 @@
       <path
          transform="translate(20.079505,7.1547666)"
          sodipodi:type="arc"
-         style="fill:#557792;fill-opacity:1;stroke:#557792;stroke-opacity:1"
+         style="fill:#0057a6;fill-opacity:1;stroke:#0057a6;stroke-opacity:1"
          id="path4817-2-0-0"
          sodipodi:cx="-64.508301"
          sodipodi:cy="-19.402172"
