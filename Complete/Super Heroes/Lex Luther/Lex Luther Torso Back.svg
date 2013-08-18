@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Lex Luther Torso Back.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-328.50239"
+     inkscape:cy="126.78963"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362183)">
+    <g
+       id="g3079"
+       transform="matrix(3.772063,0,0,3.772063,-1293.9188,-1227.0172)">
+      <g
+         transform="matrix(0.2737962,0,0,0.2737962,81.598562,365.17024)"
+         id="g3071">
+        <path
+           style="fill:#7e9392;fill-opacity:1;stroke:none"
+           d="m 1904.2894,837.16332 c 0,-12.45622 -59.513,-213.1395 -62.281,-244.97204 -2.7681,-31.8325 -13.8402,-242.20397 -9.6882,-254.66015 4.1521,-12.45622 20.7604,-11.07217 20.7604,30.44849 0,41.52069 8.3041,199.29926 15.2242,214.5235 6.9201,15.22429 51.2089,233.89987 53.9769,249.12411 2.7681,15.22425 -5.5361,35.98458 -17.9923,5.53609 z"
+           id="path3007-4"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#7e9392;fill-opacity:1;stroke:none"
+           d="m 996.86872,837.16285 c 0,-12.45622 59.51298,-213.13949 62.28098,-244.97203 2.7681,-31.8325 13.8402,-242.20398 9.6882,-254.66016 -4.1521,-12.45622 -20.7604,-11.07217 -20.7604,30.44849 0,41.5207 -8.3041,199.29926 -15.2242,214.52351 -6.9201,15.22428 -51.20887,233.89986 -53.97689,249.12411 -2.76806,15.22424 5.53608,35.98457 17.99231,5.53608 z"
+           id="path3007-5-8"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccssc"
+         inkscape:connector-curvature="0"
+         id="path3075"
+         d="m 407.59655,524.0524 c 0,0 80.81221,-14.14213 118.69293,-9.59645 0,0 29.76406,-1.15398 -5.05077,-7.57614 -26.01142,-4.79823 -105.56093,9.09137 -111.62185,12.12183 -6.06092,3.03045 -8.08123,6.06091 -2.02031,5.05076 z"
+         style="fill:#7e9392;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3077"
+         d="m 400.02041,378.59043 c 0,0 37.88072,19.69798 82.83251,13.13199 44.95179,-6.56599 34.34518,-4.54569 58.58884,-14.64721 0,0 1.77253,-7.92731 -15.01319,-1.1416 -16.78571,6.78571 -42.5,9.64286 -51.78571,9.64286 -9.28572,0 -39.28572,0.35714 -64.28572,-9.28572 0,0 -11.38775,-6.47207 -10.33673,2.29968 z"
+         style="fill:#7e9392;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
