@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Dr Cyber Face.svg">
+   sodipodi:docname="Dr Cyber Face.svg"
+   inkscape:export-filename="\Dr Cyber Face.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1133.9352"
-     inkscape:cy="128.23614"
+     inkscape:zoom="0.35"
+     inkscape:cx="1399.8645"
+     inkscape:cy="554.28602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,19 +114,20 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssss" />
     <g
-       id="g3027">
+       id="g3027"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:#9c9c9c;stroke-opacity:1">
       <g
-         style="fill:#e78b3e;fill-opacity:1;stroke:#e78b3e;stroke-opacity:1"
+         style="fill:#9c9c9c;fill-opacity:1;stroke:#9c9c9c;stroke-opacity:1"
          transform="matrix(2.1446548,0,0,2.1446548,-263.50873,-610.9848)"
          id="g3020">
         <path
-           style="fill:#e78b3e;fill-opacity:1;stroke:#e78b3e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#9c9c9c;fill-opacity:1;stroke:#9c9c9c;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 203.04066,631.63365 c 22.9872,-17.74237 44.29565,-45.57867 72.73098,-55.55839 20.65414,-7.24881 44.83505,6.58986 67.68023,-1.51523 10.91722,-4.71771 12.3748,-39.28018 1.01015,-43.43656 -33.97811,-6.28991 -48.99833,-2.02377 -85.3579,8.08122 -39.86224,20.15483 -78.85515,34.38735 -97.47971,86.87312 26.78985,-18.18881 26.80279,-17.93235 41.41625,-22.22336 2.22303,13.49289 1.31986,13.80454 0,27.7792 z"
            id="path3062"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccc" />
         <path
-           style="fill:#e78b3e;fill-opacity:1;stroke:#e78b3e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#9c9c9c;fill-opacity:1;stroke:#9c9c9c;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 517.60066,631.63318 c -22.9872,-17.74237 -44.29565,-45.57867 -72.73098,-55.55839 -20.65414,-7.24881 -44.83505,6.58986 -67.68023,-1.51523 -10.91722,-4.71771 -12.3748,-39.28018 -1.01015,-43.43656 33.97811,-6.28991 48.99833,-2.02377 85.3579,8.08122 39.86224,20.15483 78.85515,34.38735 97.47971,86.87312 -26.78985,-18.18881 -26.80279,-17.93235 -41.41625,-22.22336 -2.22303,13.49289 -1.31986,13.80454 0,27.7792 z"
            id="path3062-0"
            inkscape:connector-curvature="0"
@@ -134,7 +138,7 @@
          inkscape:connector-curvature="0"
          id="path3014"
          d="m 370.42931,823.20746 c 0,0 59.69415,23.64286 137.96567,23.80674 72.77914,0.15232 132.33529,-25.49088 132.33529,-25.49088 0,0 -0.67749,193.26548 -12.0953,200.26558 -8.15001,-2.9015 -26.38852,-9.2432 -36.68431,-12.632 -6.63218,-2.1397 -8.21568,-3.6898 -11.2172,12.9869 -2.38206,4.1966 -6.84553,6.2249 -17.22548,6.9388 -8.95082,-2.0698 -13.27815,-3.8311 -15.82528,-7.1493 -26.60556,-38.66948 -46.23578,-56.29826 -46.23578,-56.29826 0,0 -12.215,23.77881 -78.98424,59.66646 -40.81419,-4.3623 -52.03337,-202.09409 -52.03337,-202.09409 z"
-         style="fill:#e78b3e;fill-opacity:1;stroke:#e78b3e;stroke-width:2.35776423999999980px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#9c9c9c;fill-opacity:1;stroke:#9c9c9c;stroke-width:2.35776423999999980px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>
