@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Information Center Logo">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="336.3502"
+     inkscape:cy="571.1696"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3820"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362168)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:19.90122604;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3050"
+       sodipodi:cx="336.3808"
+       sodipodi:cy="549.30621"
+       sodipodi:rx="202.0305"
+       sodipodi:ry="202.0305"
+       d="m 538.4113,549.30621 a 202.0305,202.0305 0 1 1 -404.061,0 202.0305,202.0305 0 1 1 404.061,0 z"
+       transform="matrix(2.4153095,0,0,2.4153095,-300.46374,-786.38233)" />
+    <g
+       id="g3038"
+       style="fill:#ff0000;stroke:#ff0000"
+       transform="matrix(1.2117662,0,0,1.2117662,2168.085,-524.47304)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3034"
+         d="m -1363.3508,567.91193 c -15.6071,-0.10754 -31.0527,4.63874 -44.5389,12.29965 -20.3282,11.55816 -35.436,31.73332 -41.0875,54.42972 -3.02,11.11428 -3.172,22.7802 -2.3089,34.19697 2.2143,18.28787 10.3491,35.79623 23.1794,49.02184 10.7869,11.66352 24.5697,20.5799 39.8675,25.0853 13.313,4.10855 27.5733,4.99249 41.29,2.46504 11.3604,-1.71308 21.7962,-6.82858 31.7973,-12.2324 14.1965,-8.6584 25.3913,-21.89584 32.8614,-36.66121 6.953,-13.77669 9.4558,-29.48013 8.9062,-44.81027 -1.0465,-23.42438 -12.4576,-45.87192 -30.0316,-61.24463 -16.2635,-14.4751 -38.0718,-23.06465 -59.9349,-22.55001 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.35714287;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3036"
+         d="m -1494.8126,769.4235 c 0,36.87057 0,73.74114 0,110.61171 3.3293,0.94675 7.3964,0.1127 11.0011,0.39459 8.6232,0 17.2463,0 25.8694,0 0,39.4696 0,78.93921 0,118.40882 -13.5055,0 -27.011,0 -40.5166,0 -0.9467,3.32938 -0.1127,7.39638 -0.3946,11.00118 0,43.2682 0,86.5364 0,129.8046 3.3294,0.9468 7.3965,0.1127 11.0012,0.3946 83.3376,0 166.6752,0 250.0128,0 0.9467,-3.3294 0.1127,-7.3964 0.3946,-11.0012 0,-43.9416 0,-87.8833 0,-131.8249 -3.3294,-0.94675 -7.3964,-0.11271 -11.0012,-0.39459 -7.613,0 -15.226,0 -22.8389,0 0,-75.79827 0,-151.59654 0,-227.39481 -3.3294,-0.94675 -7.3964,-0.1127 -11.0012,-0.39459 -70.7107,0 -141.4214,0 -212.1321,0 l -0.3571,0.35714 -0.037,0.0375 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.50507629;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
