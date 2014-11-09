@@ -1,21 +1,20 @@
 ![LEGO Textures](https://raw.github.com/rioforce/LEGO-Textures/master/header.png)
 ===========================
 
-These LEGO textures are scanned from real LEGO bricks! These textures are in an Inkscape .SVG format, so they are easily scalable to fit any texture UV map! (They also come in .PNG format if you don't use .SVGs.)
+These LEGO textures are scanned from real LEGO bricks! These textures are in an Inkscape .SVG format, so they are easily scalable! They also come in .PNG format if you don't use .SVGs. You can use these textures in any kind of project
 
 Instructions
 ============
 
-The textures are in the "Complete" folder as SVG files. They are sorted by category. 
 * Select a category folder.
-* Textures are in .SVG and .PNG format. (The .SVG is the original vector graphic, while the .PNG is already a an image).
-* Download the file of your choice.
-* Use it in your project.
+* Textures are in .SVG and .PNG format. (The .SVG is the original vector graphic, while the .PNG is already a an image. These are usually 1024x1024px.).
+* Download the file of your choice by clicking on it, then clicking the "Raw" button above the picture at the right. Then save the image to your computer by pressing Ctrl+S on your keyboard. 
+* When using these textures in your project, you must give credit to me, rioforce, for the textures. See license below.
 
 Support
 =======
 
-If you need any help, want to request some refinement on a texture, or want to request a specific texture, just summit a "bug" here:
+If you need any help, want to request some refinement on a texture, or want to request a specific texture, just open an issue here:
 
 https://github.com/rioforce/LEGO-Textures/issues/new
 
